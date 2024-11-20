@@ -7,7 +7,7 @@ asdasdas
 
 1. Install the latest version of Python [ https://www.python.org/downloads/ ]
 
-2. Install the latest version of Django either globally or within a dedicated virtual environment
+2. Install the latest version of Django either gsadasdasdasdaslobally or within a dedicated virtual environment
 ```bash
 pip install django
 ```
